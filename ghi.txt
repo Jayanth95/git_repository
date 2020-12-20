@@ -1,0 +1,4 @@
+this is first line in ghi.txt
+this is second line in ghi.txt
+this is my third line in ghi.txt
+
